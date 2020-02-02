@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>    
+  <meta charset="utf-8">    
+  <title>My Cat</title>
+  </head>  
+  
+  <body>    
+  
+	<h1>My Cat is awesome!</h1>
+	
+	<label>This will take you back to the home page.</label>
+	<a href="https://google.com"/>
+	
+  
+  </body>
+  
+  </html>
