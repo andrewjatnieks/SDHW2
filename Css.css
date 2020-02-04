@@ -1,0 +1,60 @@
+body{
+	
+	color: blue;
+	background-color: gray;
+	margin: 50px;
+	padding: 20px;
+	margin-left: 80px;
+	margin-right: 100px;
+	
+	
+}
+div{
+	display: block;
+	
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+	font-color: white;
+}
+
+#navlist li {
+    display: block;
+    float: left;
+    font-weight: bold;
+    text-align: center;
+    font-variant: small-caps;
+    padding: 10px;
+	font-color: white;
+}
+#navlist a:link, #navlist a:visited {
+    color: #fff;
+    background-color: #036;
+    text-decoration: none;
+}
+
+
+#menubar {
+    background-color: #022;
+    width: 50%;
+    overflow: hidden;
+}
+.container{}
+
+.header{}
+
+.greeting{
+	background-color: white;
+	margin-bottom: 50px;
+
+}
+
+
+a:hover { color: hotpink; text-decoration: underline; }
