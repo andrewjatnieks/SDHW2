@@ -1,6 +1,6 @@
 body{
 	
-	color: blue;
+	color: #003370;
 	background-color: white;
 	margin: 50px;
 	padding: 20px;
@@ -9,11 +9,19 @@ body{
 	
 	
 }
+
+main{
+	margin-top: 60px;
+	
+}
 div{
 	display: block;
 	
 }
-
+section{
+	display:block;
+	
+}
 ul {
     display: block;
     list-style-type: disc;
@@ -23,6 +31,14 @@ ul {
     margin-inline-end: 0px;
     padding-inline-start: 40px;
 	font-color: white;
+}
+
+figure {
+    margin-top: 10px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding: 0;
 }
 
 #navlist li {
@@ -53,9 +69,16 @@ ul {
 .greeting{
 	background-color: white;
 	margin-bottom: 50px;
-	color: gray;
+	color: #036;
+	font-weight: bold;
+	font-size: 3em;
 
 }
 
-
+img.responsive-main {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+	
+}
 a:hover { color: hotpink; text-decoration: underline; }
